@@ -1,6 +1,6 @@
 body {
   font-family: 'Karla', sans-serif;
-  background-image: url("../bg.jpg");
+  background-image: url("/bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -72,4 +72,4 @@ p {
     background-color: #000000;
     color: #ffffff; }
 
-sourceMappingURL=bd-coming-soon.css.map
+/*sourceMappingURL=bd-coming-soon.css.map*/
