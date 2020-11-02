@@ -13,8 +13,8 @@ body {
 .navbar-brand {
   margin-right: 0; }
   .navbar-brand img {
-    height: 123px; 
-    width: 123px
+    height: 98px; 
+    width: 98px;
 }
 
 .navbar-dark {
@@ -50,12 +50,7 @@ body {
   margin-bottom: 59px; }
   @media (max-width: 767px) {
     .page-description {
-      font-size: 16px; }
-.navbar-brand img {
-    height: 63px; 
-    width: 63px
-}
- }
+      font-size: 16px; }}
 
 p {
   font-size: 20px;
